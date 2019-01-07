@@ -1,0 +1,21 @@
+#message-body {
+  margin: 0px 20px 5px 20px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+#message-body div{
+  max-width: 80%;
+  display: inline-block;
+  padding: 15px;
+  border: 1px;
+  border-radius: 1px;
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+.message.from-me {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5px;
+}

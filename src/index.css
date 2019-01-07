@@ -1,0 +1,39 @@
+#main-page{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin-left: 25%;
+  align-self: center;
+  background-color: rgba(236, 234, 234, 0.459);
+  height: 97.5vh;
+}
+/* 
+#sidebar{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: lightblue;
+}
+
+#chat-container{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 70%;
+  justify-content: space-between;
+}
+
+#messages-box{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 92%;
+  background-color: lightblue;
+  border: 3px solid lightcoral;
+  border-top-right-radius: 15px;
+}
+
+#send-message-input-box{
+  display: flex;
+  flex-direction: row;
+  flex-basis: 8%;
+  background-color: #7fdbff;
+} */
